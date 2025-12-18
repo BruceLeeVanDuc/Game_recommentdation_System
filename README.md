@@ -15,7 +15,7 @@ Hệ thống gợi ý game Steam thông minh sử dụng **Hybrid Recommendation
 
 ## 🚀 Demo trực tuyến
 
-👉 **[XEM DEMO TẠI ĐÂY](#)** _(Cập nhật link sau khi deploy)_
+👉 **(https://gamerecommentdationsystem-zuqsj8qznazzzdhcyetbwp.streamlit.app/#gioi-thieu)](#)** _(Cập nhật link sau khi deploy)_
 
 ## 📦 Cài đặt Local
 
